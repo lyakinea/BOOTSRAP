@@ -1,0 +1,9 @@
+img {
+    width: 128px;
+    height: 128pX;
+}
+section {
+    border-bottom: 2px solid gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
